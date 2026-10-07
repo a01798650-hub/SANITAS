@@ -1,6 +1,6 @@
 # SANITAS
 
-HOLA somos Sistema IoT wearable para monitoreo de variables biomédicas.
+HOLA somos SANITAS un sistema IoT wearable para monitoreo de variables biomédicas.
 Equipo 6
 Buscamos mejorar la vida de las personas ayudandoles a monitorear su salud.
 
