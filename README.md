@@ -4,6 +4,12 @@ HOLA somos SANITAS un sistema IoT wearable para monitoreo de variables biomédic
 Equipo 6
 Buscamos mejorar la vida de las personas ayudandoles a monitorear su salud.
 
+## Creadores
+Mia Camila Hernández Gutiérrez A01798650 ITC
+ Mateo Andrés López Jaimes A01799476 IRS
+
+
+
 ## Sensores
 
 - MAX30102: frecuencia cardiaca y SpO₂
