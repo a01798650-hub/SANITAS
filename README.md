@@ -8,6 +8,7 @@
 ## Creadores
 - Mia Camila Hernández Gutiérrez A01798650 ITC
 - Mateo Andrés López Jaimes A01799476 IRS
+- Profesor: David Higuera Rosales Materia: Implementación del Internet de las cosas Institución: Tecnológico de Monterrey
 
 
 
