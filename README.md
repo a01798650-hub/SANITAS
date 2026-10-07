@@ -1,12 +1,13 @@
 # SANITAS
 
-HOLA somos SANITAS un sistema IoT wearable para monitoreo de variables biomédicas.
-Equipo 6
-Buscamos mejorar la vida de las personas ayudandoles a monitorear su salud.
+01101000 01101111 01101100 01100001 (Hola) somos SANITAS 
+- Sistema IoT wearable para monitoreo de variables biomédicas.
+- Equipo 6
+- Buscamos mejorar la vida de las personas ayudandoles a monitorear su salud.
 
 ## Creadores
-Mia Camila Hernández Gutiérrez A01798650 ITC
- Mateo Andrés López Jaimes A01799476 IRS
+- Mia Camila Hernández Gutiérrez A01798650 ITC
+- Mateo Andrés López Jaimes A01799476 IRS
 
 
 
