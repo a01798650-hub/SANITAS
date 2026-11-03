@@ -92,6 +92,12 @@ Se realizó una prueba de conexión inalámbrica del ESP32 a una red Wi-Fi, obte
 
 También se realizó una prueba de conectividad mediante el comando ping.
 
+#### Prueba de conectividad mediante ping
+
+Se realizó una prueba de comunicación entre la computadora y el ESP32 mediante el comando ping, obteniendo respuestas exitosas dentro de la red local.
+
+![Ping exitoso](./pingcorrecto.jpeg)
+
 **Resultado registrado:**
 
 - Dirección IP: 192.168.0.114
