@@ -38,10 +38,12 @@ Durante las pruebas se obtuvieron lecturas de las señales infrarroja (IR) y roj
 
 **Resultados observados:**
 
+
 | Condición | IR | Red |
 |---|---:|---:|
-| Sin dedo | 556 | 621 |
-| Con dedo | 122187 | 109686 |
+| Sin dedo | 548–674 | 749–776 |
+| Con dedo | 115590–123163 | 108702–112645 |
+
 
 ### Evidencia de lectura MAX30102
 
