@@ -83,6 +83,13 @@ Se contempla evaluar el LM35 como alternativa para la adquisición inicial de te
 
 Se consiguió conectar el ESP32 a una red Wi-Fi y obtener una dirección IP local.
 
+### Conexión Wi-Fi del ESP32
+
+Se realizó una prueba de conexión inalámbrica del ESP32 a una red Wi-Fi, obteniendo una dirección IP local que permitió comprobar su incorporación a la red.
+
+![ESP32 conectado](./ESPconectado.jpeg)
+
+
 También se realizó una prueba de conectividad mediante el comando ping.
 
 **Resultado registrado:**
