@@ -43,6 +43,10 @@ Durante las pruebas se obtuvieron lecturas de las señales infrarroja (IR) y roj
 | Sin dedo | 556 | 621 |
 | Con dedo | 122187 | 109686 |
 
+### Evidencia de lectura MAX30102
+
+![Lecturas IR y Red](evidencias/MAX30102_serial.png)
+
 Estos resultados muestran una respuesta significativa de ambas señales al colocar el dedo sobre el sensor.
 
 También se realizaron pruebas experimentales de estimación de frecuencia cardiaca y SpO₂. Sin embargo, estas mediciones todavía requieren ajustes y validación.
