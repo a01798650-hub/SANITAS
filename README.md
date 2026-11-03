@@ -45,7 +45,7 @@ Durante las pruebas se obtuvieron lecturas de las señales infrarroja (IR) y roj
 
 ### Evidencia de lectura MAX30102
 
-![Lecturas IR y Red](evidencias/MAX30102_serial.png)
+![Lecturas IR y Red](MAX30102_serial.png)
 
 Estos resultados muestran una respuesta significativa de ambas señales al colocar el dedo sobre el sensor.
 
