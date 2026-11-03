@@ -54,7 +54,14 @@ Estos resultados muestran una respuesta significativa de ambas señales al coloc
 
 También se realizaron pruebas experimentales de estimación de frecuencia cardiaca y SpO₂. Sin embargo, estas mediciones todavía requieren ajustes y validación.
 
-**Evidencia:** agregar captura del Monitor Serie mostrando IR y Red.
+
+### Montaje físico del sensor MAX30102
+
+Fotografía del sensor MAX30102 conectado al ESP32 mediante comunicación I2C.
+
+![Conexión MAX30102](./conexionMAX30102.jpeg)
+
+
 
 ### 2. Lectura del MPU6050
 
