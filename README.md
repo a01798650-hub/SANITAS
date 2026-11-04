@@ -111,7 +111,21 @@ Estas pruebas permitieron comprobar la comunicación del ESP32 dentro de la red 
 - Captura del Monitor Serie mostrando la conexión y la IP.
 - Captura del ping exitoso.
 
-### 5. Observaciones del MAX30102
+### #5 Sensor de temperatura MLX90614
+
+Se realizaron pruebas de funcionamiento del sensor MLX90614 conectado al ESP32 mediante comunicación I2C.
+
+Se obtuvieron lecturas de temperatura ambiente y temperatura del objeto, comprobando la respuesta del sensor ante cambios de temperatura.
+
+**Evidencia del sensor conectado al ESP32:**
+
+![Lectura de temperatura MLX90614](conexionestemperatura.jpeg)
+
+**Evidencia de lectura del sensor:**
+
+![Conexión física MLX90614](temperaturaserial.jpeg)
+
+### 6. Observaciones del MAX30102
 
 Durante las pruebas se observaron pequeñas fluctuaciones en las señales IR y Red, así como variaciones importantes en las primeras estimaciones de frecuencia cardiaca.
 
